@@ -17,7 +17,7 @@
 
 ### Results Summary
 
-- XGBoost achieve the highest accuracy score when comparing all four expressions.
+- Random Forests achieved the highest accuracy score when comparing all four expressions.
   - This was achieved using four time points from the landmark data
 - The addition of procrustes analysis (the method of aligning the shape data) is crucial and proved to significantly improve model performance.
 - Some expression pairs required complex boundaries to seperate them, whereas others were linearly separable.
