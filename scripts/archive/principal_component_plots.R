@@ -112,4 +112,3 @@ plot_aligned <- ggplot(plot_df_trajectory_aligned, aes(x = PC1, y = PC2, color =
   scale_color_brewer(palette = "Set1")
 
 print(plot_aligned)
-  
