@@ -6,7 +6,8 @@ tested were happy, sadness, disgusted and surprised, and the data included multi
 face to the expression. 
 
 The project combines machine learning and statistical shape analysis to explore how well geometric features (landmarks) can
-predict expressions. 
+predict expressions. Multiple experiments were carried out using different numbers of time points. Furthermore, the geometric 
+separability of expression pairs was also investigated.
 
 <br/>
 
