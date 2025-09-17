@@ -9,6 +9,9 @@ The project combines machine learning and statistical shape analysis to explore 
 predict expressions. Multiple experiments were carried out using different numbers of time points. Furthermore, the geometric 
 separability of expression pairs was also investigated.
 
+By applying shape alignment, dimensionality reduction, and machine learning, the goal was to evaluate which methods perform 
+best and how well geometric features alone can distinguish facial emotions.
+
 <br/>
 
 ## Methods:
